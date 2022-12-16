@@ -1,1 +1,1 @@
-# credit_scorecard
+If you've ever applied for a credit card or loan, you know that financial firms process your information before making a decision. This is because giving you a loan can have a serious financial impact on their business. But how do they make a decision? In this course, you will learn how to prepare credit application data. After that, you will apply machine learning and business rules to reduce risk and ensure profitability.
